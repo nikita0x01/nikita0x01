@@ -5,9 +5,9 @@ I am a **Bachelor of Engineering (BE) in Information Technology** student with a
 ---
 
 ### Currently Learning
-- Advanced JavaScript & React Ecosystem
+- Advanced JavaScript & React 
 - Backend Development with Node.js & Express
-- Cloud Technologies & DevOps (AWS, Docker)
+- Cloud Technologies & DevOps (Kubernetes, Docker)
 - Data Structures & Algorithms to level up problem-solving skills
 
 ---
@@ -20,9 +20,9 @@ I am a **Bachelor of Engineering (BE) in Information Technology** student with a
 ---
 
 ### Skills & Tech Stack
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** JavaScript, Python, HTML, CSS , C , Cpp
 - **Frameworks:** React, Node.js, Express
-- **Tools & Platforms:** Git, GitHub, VSCode, Docker, AWS (basics)
+- **Tools & Platforms:** Git, GitHub, VSCode, Docker, AWS  
 - **Soft Skills:** Communication, Team Collaboration, Problem Solving
 
 ---
